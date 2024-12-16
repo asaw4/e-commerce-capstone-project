@@ -6,7 +6,7 @@
 //         console.log("DB Connected");
 //     })
 
-//     await mongoose.connect(`${process.env.MONGODB_URI}/e-commerce`)
+//     await mongoose.connect(`mongodb+srv://srijan:@Password1234@e-commerce.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000`)
 
 // }
 
